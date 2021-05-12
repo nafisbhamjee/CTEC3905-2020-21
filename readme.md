@@ -1,8 +1,8 @@
 # CTEC3905 Assignment
 
-This repository contains basic boilerplate code for you to get started with.
+I chose to design a website for Web Development agency with 5 pages called WebInventive. The inspiration is from my business which is a professional media agency the purpose was to recreate the already existing website https://webinventive.co.uk/ using HTML, CSS and JavaScript. This experience adds valuable skills required for web development and helps boost confidence for taking up projects for my business.
 
-You will need to replace the contents of these files with your own code.
+
 
 ## index.html
 

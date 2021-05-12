@@ -1,7 +1,7 @@
 "use strict";
 
 submit_inner.addEventListener("click", function valid() {
-  if (validate_form)
+  if (validate_form())
   {
   alert ( "Thank you for your interest, Hope to speak to you soon" );
   }
