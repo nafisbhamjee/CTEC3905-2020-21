@@ -142,7 +142,7 @@ nav a.highlight {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #6EC1E4;
+  background-color: #0477917a;
   transition: background-color 0.4s;
 }
 
@@ -197,7 +197,8 @@ nav a.highlight {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  
+  margin-top: 2em;
+  padding-top: 20em;
 }
 
 .myservices {
@@ -205,7 +206,12 @@ nav a.highlight {
   flex-wrap: wrap;
   justify-content: center;
   padding: 2em 0em;
-  background-color: #6EC1E4;
+  background-color: #0477917a;
+}
+
+.services-main {
+  margin-bottom: 0em;
+  padding-bottom: 0em;
 }
 
 .services-tile {
@@ -349,6 +355,11 @@ nav a.highlight {
   font-weight: 600;
   margin-top: 1em;
   padding-top: 2em;
+}
+
+.services-head {
+  margin-top: 0.5em;
+  padding-top: 0em;
 }
 
 .main-contact {
@@ -606,7 +617,7 @@ nav a.highlight {
     font-family: 'Poppins', sans-serif;
     transition: none;
     transform: none;
-    position: static;
+    position: sticky;
   }
 
   .menu a {
@@ -635,7 +646,7 @@ nav a.highlight {
   }
 
   .header {
-    position: fixed;
+    position: sticky;
     top: 0;
     width: 100%;
   }
