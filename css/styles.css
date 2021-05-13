@@ -315,6 +315,8 @@ nav a.highlight {
 
 .graphic-tile img{
   border-radius: 50%;
+  max-width: 100%;
+  height: auto;
 }
 
 .graphic-tile:hover img,
