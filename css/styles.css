@@ -320,6 +320,7 @@ nav a.highlight {
 }
 
 .customer-tile img {
+  border-radius: 50%;
   max-width: 100%;
   height: auto;
 }
