@@ -319,6 +319,11 @@ nav a.highlight {
   height: auto;
 }
 
+.customer-tile img {
+  max-width: 100%;
+  height: auto;
+}
+
 .graphic-tile:hover img,
 .customer-tile:hover img{
   opacity: 0.7;
