@@ -10,15 +10,15 @@ Website Developed by Nafis Bhamjee [P17157542]
 
 ## Webinventive Site Map
 
-![Site Map](/images/mockups/site_map.png)
+![Site Map](/images/mockups/site_map.PNG)
 
 ## Mobile First Mockup
 
-![Mobile Design](/images/mockups/mobile_first.png)
+![Mobile Design](/images/mockups/mobile_first.PNG)
 
 ## Tablet Design Mockup
 
-![Tablet Design](/images/mockups/tablet_map.png)
+![Tablet Design](/images/mockups/tablet_map.PNG)
 
 ## index.html
 
