@@ -49,12 +49,15 @@ Resolution - enclosing the form within another article and then switching the pr
 #Final website
 
 ##Desktop
+
 ![Desktop View](/images/mockups/final_home.PNG)
 
 ##Mobile
+
 ![Mobile View](/images/mockups/mobile_home.PNG)
 
 ##Tablet
+
 ![Tablet View](/images/mockups/tablet_home.PNG)
 
 #Conclusion
