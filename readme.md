@@ -2,7 +2,17 @@
 
 I chose to design a website for Web Development agency with 5 pages called WebInventive. The inspiration is from my business which is a professional media agency the purpose was to recreate the already existing website https://webinventive.co.uk/ using HTML, CSS and JavaScript. This experience adds valuable skills required for web development and helps boost confidence for taking up projects for my business.
 
+## Webinventive Site Map
 
+![Site Map](/img/mockups/site_map.png)
+
+## Mobile First Mockup
+
+![Mobile Design](/img/mockups/mobile_first.png)
+
+## Tablet Design Mockup
+
+![Tablet Design](/img/mockups/tablet_map.png)
 
 ## index.html
 
