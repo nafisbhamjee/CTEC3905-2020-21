@@ -20,7 +20,7 @@ Website Developed by Nafis Bhamjee [P17157542]
 
 ![Tablet Design](/images/mockups/tablet_map.PNG)
 
-#Development
+# Development
 
 ## Main Web Technologies Used
 1. HTML5
@@ -46,21 +46,21 @@ The contact us page would not group all the elements in the places expected.
 
 Resolution - enclosing the form within another article and then switching the properties.
 
-#Final website
+# Final website
 
-##Desktop
+## Desktop
 
 ![Desktop View](/images/mockups/final_home.PNG)
 
-##Mobile
+## Mobile
 
 ![Mobile View](/images/mockups/mobile_home.PNG)
 
-##Tablet
+## Tablet
 
 ![Tablet View](/images/mockups/tablet_home.PNG)
 
-#Conclusion
+# Conclusion
 
 The module was thoroughly enjoyed and well demonstrated. I have learnt a lot of skills that can be applied to my future, whether it be working as a front-end developer or freelancer. it helped me learn a lot about technologies used for the development. Even though there were errors and issues throughout the development, with support from the tutors these were all resolved.
 
